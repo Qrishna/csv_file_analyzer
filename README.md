@@ -10,13 +10,13 @@ This script processes CSV files, providing various statistics and analyses. It s
 
 ##### Directory Processing
 ```
-python script.py -d input_directory -c 2
+python csv_file_analyzer.py -d input_directory -c 2
 ```
 
 
 ##### Matching Context Value
 ```
-python script.py -f input_file.csv -c 2 -m 3=5
+python csv_file_analyzer.py -f input_file.csv -c 2 -m 3=5
 ```
 
 
